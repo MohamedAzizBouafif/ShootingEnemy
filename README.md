@@ -1,6 +1,7 @@
 # 🎮 Unity Third-Person Shooter System
 
-![Shooter System Banner](preview.gif) *(Add your gameplay GIF here)*
+![Gameplay Demo](./ezgif-2bfafe30026085.gif)
+
 
 A **modular, production-ready** shooter framework with:
 - ✅ Player movement & mouse-aiming
